@@ -1,7 +1,7 @@
 package App::FindCallers;
 # ABSTRACT: Find the callers of a given function in a directory tree
 
-our $VERSION = '0.02';
+our $VERSION = '0.04';
 
 use 5.010;
 use strict;
